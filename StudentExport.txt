@@ -1,0 +1,2 @@
+Student: firstName: hernan lastName:zavala id: 1 phonenNumber:null major: null
+

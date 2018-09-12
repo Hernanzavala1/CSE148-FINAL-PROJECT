@@ -1,0 +1,1 @@
+Faculty: firstName: russel lastName:coe id: 2 phonenNumber:323232323 title: teacher salary: 1.0

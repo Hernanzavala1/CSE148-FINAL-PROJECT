@@ -1,0 +1,4 @@
+[courseTitle: cse courseNumber: 118 numberCreds: 3
+, courseTitle: cse courseNumber: 148 numberCreds: 4
+, courseTitle: cse courseNumber: 218 numberCreds: 3
+, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
